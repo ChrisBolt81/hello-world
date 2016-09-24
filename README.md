@@ -1,4 +1,4 @@
 # hello-world
 
 Hello,
-My name is Chris, I here to learn something new that I've found interesting for a long time. I'm new to the game
+My name is Chris, I'm new to the game and I,m here to learn something that I've found interesting for a long time.
